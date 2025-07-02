@@ -1,24 +1,68 @@
-# Hello Everyone! 👋
-# I'm Akhil Vishwanath Khatode & welcome to my GitHub Profile
-# 🧑‍💻 About Me:
-- 🎓 Passionate and self-motivated Computer Science graduate pursuing an MS degree at Arizona State University. Eager to embark on software engineering internships. With a strong foundation in programming, data management, and project leadership, I'm committed to innovative problem-solving in a dynamic software/computer science environment.
+# 👋 Hello World!
+## I'm Akhil Vishwanath Khatode – Welcome to my GitHub!
 
--- 🚀 With a keen interest in both backend and frontend development, as well as cloud computing and machine learning, I continuously strive to upgrade my skills and stay updated with the latest technologies.
+🔍 **Aspiring Software Development Engineer** | 🚀 Passionate about scalable systems, cloud computing, and robust software validation.
+
+---
+
+## 🧑‍💻 About Me:
+- 🎓 Computer Science graduate student at **Arizona State University** (CGPA: 4.00/4.00) with 2.5 years of industry experience at **Crest Data Systems**.
+- 💼 Proven background in **end-to-end software development**, **cloud-native solutions**, **automation pipelines**, and **telemetry systems**.
+- 🛠️ Recognized with the **Splunk Bravo Award** and **dual Crest CAP Awards** for critical contributions across product releases and infrastructure enhancements.
+- 🌐 Exploring the intersection of **full-stack engineering**, **DevOps**, and **AI-driven systems**.
+
+---
 
 ## 🎓 Education
-- MS in Computer Science from Arizona State University, Tempe, AZ (CGPA: 4.00/4.00), expected graduation May 2025.
+- **M.S. in Computer Science** — Arizona State University, USA (May 2025)  
+  _CGPA: 4.00/4.00_
 
-- B-Tech in Computer Science and Engineering from Indian Institute of Information Technology, Surat, India (CGPA: 8.92/10.00), graduated in June 2021.
+- **B.Tech in Computer Science and Engineering** — IIIT Surat, India (June 2021)  
+  _CGPA: 8.92/10.00_
 
-# 💻 Skills:
+---
 
-- **Programming Languages:** Python, PHP, JavaScript, TypeScript, C/C++, YAML, HTML, CSS
-- **Frameworks:** React.js, Node.js, AngularJS, TensorFlow
-- **Tools and Technologies:** Splunk, Unified Dashboard Framework (UDF), Splunk Query Language (SPL), CI/CD, Git, Bitbucket, Jenkins, Unix/Linux, Azure
-- **Data Management:** Data Structures and Algorithms, Database Management Systems (DBMS), MySQL
-- **Cloud Platforms:** AWS, Google Cloud
+## 💻 Tech Stack
 
-# 👔 Work Experience:
+**Languages:**  
+`Python` `JavaScript` `TypeScript` `Java` `C/C++` `PHP` `YAML` `HTML/CSS`
+
+**Frameworks & Libraries:**  
+`React.js` `Node.js` `AngularJS` `Vue.js` `Redux` `TensorFlow` `Bootstrap` `Django`
+
+**Cloud & DevOps:**  
+`AWS (ECS, Lambda, SQS, DynamoDB)` `Azure` `Docker` `Kubernetes` `Jenkins` `CI/CD`
+
+**Data & Infra:**  
+`MySQL` `SQL` `NoSQL` `Splunk` `UDF` `SPL`
+
+**Testing & QA:**  
+`WebdriverIO` `Selenium` `TDD` `Integration Testing` `Code Reviews`
+
+---
+
+## 🧠 Noteworthy Projects
+
+📸 **Elastic Face Recognition on AWS (IaaS)**  
+> Scalable application with automated IAM/EC2 provisioning via CLI, reducing processing time by 30%.
+
+🎬 **Serverless Video Analysis (AWS Lambda)**  
+> Multi-stage video processing with ffmpeg and AWS Lambda, achieving 40% lower latency.
+
+📚 **Multimedia Recommendation System**  
+> Personalized movie, TV, and book recommendations using content-based filtering and user behavior modeling.
+
+---
+
+## 🏆 Awards & Recognition
+- 🏅 **Splunk Bravo Award** – for outstanding release performance and bug resolution  
+- 🏅 **2× Crest CAP Awards** – for project excellence in cloud telemetry and dashboard migration  
+- 🏅 **Executive Member**, ACM IIIT Surat Student Chapter
+
+---
+
+## 💼 Experience Highlights
+
 - **Software Engineer (E3)** at Crest Data Systems, Ahmedabad, India (03/2023 – 06/2023)
   - Led the implementation of Node.js and WDIO testing on both on-premises and cloud platforms, ensuring thorough end-to-end testing of the product.
   - Migrated Backbone app pages to React, ensuring a seamless transition without compromising functionality.
@@ -37,28 +81,16 @@
 - **Software Engineer Intern** at ESDS Software Solutions, Nashik, India (05/2019 – 06/2019)
   - Mastered the MVC model, applying its principles to elevate web development and drove impactful contributions to React-based projects.
 
-# 🏅 Accolades:
-- Executive Member, ACM NIT Surat Student Chapter
-- 'Above and Beyond Bravo' Award from the SPLUNK Client Team for Exceptional Work During Release
-- Dual 'Crest CAP Awards' from the Crest Team for Outstanding Project Contributions
+---
 
-## Thank you for visiting my profile. If you have any questions or would like to connect, please feel free to reach out to me. I'm always open to new opportunities and collaborations. 👍
+## 📫 Let’s Connect
 
-# 💡 Let's Connect:
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhatode@asu.edu)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilkhatode/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhatode@asu.edu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilkhatode)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkhilVKhatode)
+
+---
 
 <!--
-**AkhilVKhatode/AkhilVKhatode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**AkhilVKhatode/AkhilVKhatode** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
